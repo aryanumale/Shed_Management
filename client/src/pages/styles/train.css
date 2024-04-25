@@ -1,0 +1,37 @@
+/* Custom CSS for Train component */
+.card {
+    margin-top: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 15px 15px 0 0;
+  }
+  
+  .card-body {
+    background-color: #f8f9fa;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-primary:hover {
+    background-color: #218838;
+    border-color: #218838;
+  }
+  
+  .form-control {
+    border-radius: 8px;
+  }
+  
+  /* Optional: Add more styles as needed */
+  
